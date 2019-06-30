@@ -2,6 +2,10 @@
 
 > My amazing Nuxt.js project
 
+## Qiita API key
+
+Add Qiita API key to plugins/asios.ts
+
 ## Build Setup
 
 ``` bash
