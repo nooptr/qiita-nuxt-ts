@@ -1,4 +1,4 @@
-# myapp
+# qiita-nuxt-ts
 
 > My amazing Nuxt.js project
 
@@ -9,7 +9,7 @@
 $ npm run install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ npm run dev -- -c ./nuxt.config.ts
 
 # build for production and launch server
 $ npm run build
