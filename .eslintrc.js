@@ -14,6 +14,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    'no-console': 'off',
     '@typescript-eslint/no-unused-vars': 'error',
     'nuxt/no-cjs-in-config': 'off',
   }
